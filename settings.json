@@ -1,0 +1,9 @@
+{
+  "jellyfinBaseUrl": "http://192.168.1.100:8096",
+  "apiKey": "YOUR_JELLYFIN_API_KEY_HERE",
+  "targetUsername": "YOUR_JELLYFIN_USERNAME",
+  "activeSessions": {
+    "movie": null,
+    "music": null
+  }
+}
