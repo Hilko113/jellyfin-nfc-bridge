@@ -83,11 +83,11 @@ Once the server is running, you can manage everything from your web browser.
 
       * Use the search bar under the "Movies" or "Albums" section to find media from your Jellyfin library.
       * On the search results page, find the correct item.
-      * Enter a simple, one-word, lowercase **Trigger Word** (e.g., `inception`, `darkside`). This is the word you will use in the URL.
+      * Enter a simple, one-word, lowercase **Trigger Word** (e.g., `inception`). This is the word you will use in the URL.
       * Click **"Add to Database"**.
 
 4.  **Trigger Playback:**
-    You're all set\! To start playback, simply access the URL with your trigger word. For example, if your server is at `192.168.1.50` and your trigger word is `inception`, you would use:
+    You're all set\! To start playback, simply access the URL with your trigger word. For example, if your server is at `192.168.1.100` and your trigger word is `inception`, you would use:
 
     ```
     http://192.168.1.100/inception
