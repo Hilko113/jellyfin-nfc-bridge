@@ -6,6 +6,8 @@ This application acts as a bridge between a simple HTTP GET request (like one tr
 
 The core idea is to map a media item (like a movie or a music album) to a simple, memorable **trigger word**. When you visit the URL `http://<your-server-ip>/<triggerword>`, the server sends a command to a pre-selected Jellyfin client, telling it to play that specific media.
 
+![alt text](https://github.com/Hilko113/jellyfin-nfc-bridge/blob/main/screenshot.JPG)
+
 ## ✨ Features
 
   * **Web-based UI:** Easy-to-use interface to manage your media triggers.
